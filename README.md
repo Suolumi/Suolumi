@@ -9,6 +9,8 @@ Hi there! I'm Florian Garnier, also known as Suolumi, a third year student at Ep
 
 - 📫 You can email me at **florian2002.garnier@gmail.com**
 
+- <a href="https://github.com/Platanos-Studios" targer="blank"><img src="https://avatars.githubusercontent.com/u/124914685?s=200&v=4" alt="Platanos Studios" height="20" width="20" /></a> Me and my friends' organization, where we make our collaborative projects: https://github.com/Platanos-Studios
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Suolumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="30" width="40" alt="Suolumi" /></a>
