@@ -5,8 +5,6 @@ Hi there! I'm Florian Garnier, also known as Suolumi, a fourth year student at E
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Golang and Gitlab**
-
 - 📫 You can email me at **florian2002.garnier@gmail.com**
 
 - <a href="https://github.com/Platanos-Studios" targer="blank"><img src="https://avatars.githubusercontent.com/u/124914685?s=200&v=4" alt="Platanos Studios" height="20" width="20" /></a> Me and my friends' organization, where we make our collaborative projects: https://github.com/Platanos-Studios
@@ -71,6 +69,9 @@ Hi there! I'm Florian Garnier, also known as Suolumi, a fourth year student at E
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -82,6 +83,9 @@ Hi there! I'm Florian Garnier, also known as Suolumi, a fourth year student at E
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
