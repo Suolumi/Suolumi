@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Florian</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-Hi there! I'm Florian Garnier, also known as Suolumi, a fourth year student at Epitech Technology. I'm a fullstack developer who loves to discover new programming languages and technologies. When I'm not coding, you can find me climbing or playing guitar. I'm always looking for new challenges and opportunities to learn and grow as a developer. Feel free to check out my projects and connect with me on GitHub!
+Hi there! I'm Florian Garnier, also known as Suolumi. I'm a fullstack developer who loves to discover new programming languages and technologies. When I'm not coding, you can find me bouldering or cooking delicious food. I'm always looking for new challenges and opportunities to learn and grow as a developer. Feel free to check out my projects and connect with me on GitHub!
 
 <h3 align="left">About me:</h3>
 
